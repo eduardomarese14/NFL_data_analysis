@@ -31,7 +31,7 @@ The goal of this project is to demonstrate **data modeling, analytical thinking,
 
 ## Dashboard Visuals & Explanations
 
-### 4️⃣ Team Performance KPIs (Cards)
+### Team Performance KPIs (Cards)
 
 This section presents high-level KPIs summarizing team performance over the selected seasons.
 
